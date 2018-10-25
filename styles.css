@@ -2,6 +2,10 @@ body {
   background-color: rgb(50,205,50);
 }
 
-p.centerimage {
+img.centerimg {
+	text-align: center;
+}
+
+p.centertext {
 	text-align: center;
 }
