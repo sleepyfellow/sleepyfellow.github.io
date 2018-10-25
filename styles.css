@@ -2,10 +2,6 @@ body {
   background-color: rgb(50,205,50);
 }
 
-img.centerimg {
-	text-align: center;
-}
-
-p.centertext {
+.center {
 	text-align: center;
 }
