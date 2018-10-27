@@ -7,6 +7,11 @@ body {
 }
 
 @font-face {
-	font-family:"Header";
-	src : url("fonts/FinkHeavy.ttf")format("truetype");
+	font-family: "Header";
+	src: url("fonts/FinkHeavy.ttf")format("truetype");
+}
+
+@font-face {
+	font-family: "Body";
+	src: url("fonts/Animal-Crossing-Wild-World.ttf");
 }
