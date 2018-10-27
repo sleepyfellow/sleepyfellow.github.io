@@ -2,6 +2,11 @@ body {
   background-color: rgb(50,205,50);
 }
 
+h1 {
+	font-family: 'Header';
+	text-align: center;
+}
+
 .center {
 	text-align: center;
 }
