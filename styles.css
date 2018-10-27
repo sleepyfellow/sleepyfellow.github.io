@@ -8,10 +8,14 @@ body {
 
 @font-face {
 	font-family: "Header";
+<<<<<<< HEAD
 	src: url("fonts/FinkHeavy.ttf")format("truetype");
 }
 
 @font-face {
 	font-family: "Body";
 	src: url("fonts/Animal-Crossing-Wild-World.ttf");
+=======
+	src : url("fonts/FinkHeavy.ttf")format("truetype");
+>>>>>>> e5501731b1e3b964847333ec41a8896f7b22e5fc
 }
