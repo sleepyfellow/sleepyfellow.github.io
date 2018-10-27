@@ -7,6 +7,6 @@ body {
 }
 
 @font-face {
-	font-family:"Header";
+	font-family: "Header";
 	src : url("fonts/FinkHeavy.ttf")format("truetype");
 }
