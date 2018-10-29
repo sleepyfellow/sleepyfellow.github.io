@@ -19,7 +19,7 @@ h2 {
 	src: url("fonts/calvert.ttf")format("truetype");
 }
 
-p {
+@font-face {
 	font-family: "Body";
 	src: url("fonts/Animal-Crossing-Wild-World.ttf");
 	font-size: 30px; 
@@ -28,7 +28,7 @@ p {
 	color: 83, 255, 26;
 	text-align: center;
 	}	
-ul {
+p{
 	font-family: "Body";
 	src: url("fonts/Animal-Crossing-Wild-World.ttf");
 	font-size: 30px; 
@@ -38,3 +38,8 @@ li {
 	src: url("fonts/Animal-Crossing-Wild-World.ttf");
 	font-size: 30px; 
 {	
+ul { 	
+	font-family: "Body";
+	src: url("fonts/Animal-Crossing-Wild-World.ttf");
+	font-size: 30px;
+}		
