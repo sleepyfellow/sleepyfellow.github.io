@@ -19,7 +19,7 @@ h2 {
 	src: url("fonts/calvert.ttf")format("truetype");
 }
 
-@font-face {
+p {
 	font-family: "Body";
 	src: url("fonts/Animal-Crossing-Wild-World.ttf");
 	font-size: 30px; 
