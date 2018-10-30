@@ -1,23 +1,23 @@
-body {
-  background-color: rgb(50,205,50);
+        font-family: "Body";
+	src: url("fonts/Animal-Crossing-Wild-World.ttf");
+	font-size: 30px; 
 }
-
-h1 {
-	font-family: 'Header';
-	text-align: center; 
-}
-h2 {
-	font-family: 'header';
-}
-@font-face {
-	font-family: "Header";
-	src: url("fonts/calvert.ttf")format("truetype");
-}
-
-@font-face {
+#wildworld {
+	color: 83, 255, 26;
+	text-align: center;
+	}	
+p{
 	font-family: "Body";
 	src: url("fonts/Animal-Crossing-Wild-World.ttf");
-}	
-.center {
-	text-align: center;
-}
+	font-size: 30px; 
+{
+li { 
+	font-family: "Body";
+	src: url("fonts/Animal-Crossing-Wild-World.ttf");
+	font-size: 30px; 
+{	
+ul { 	
+	font-family: "Body";
+	src: url("fonts/Animal-Crossing-Wild-World.ttf");
+	font-size: 30px;
+}		
