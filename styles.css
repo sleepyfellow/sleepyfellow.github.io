@@ -2,9 +2,12 @@ body {
   background-color: rgb(138,213,9);
 }
 
+ul {
+	text-align: center;
+}
+
 li {
 	display: inline;
-	text-align: center;
 }
 
 h1 {
