@@ -2,6 +2,9 @@ body {
   background-color: rgb(138,213,9);
 }
 
+li {
+	display: inline;
+
 h1 {
 	font-family: 'Header';
 	text-align: center; 
