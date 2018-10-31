@@ -1,16 +1,6 @@
 body {
   background-color: rgb(138,213,9);
 }
-
-ul {
-	text-align: center;
-	padding-left: 0px;
-}
-
-li {
-	display: inline;
-}
-
 h1 {
 	font-family: 'Header';
 	text-align: center; 
