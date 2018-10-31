@@ -8,14 +8,7 @@ h1 {
 h2 {
 	font-family: 'header';
 }	
-ul {
-	text-align: center;
-	padding-left: 0px;
-}
 
-li {
-	display: inline;
-}
 @font-face {
 	font-family: "Header";
 	src: url("fonts/calvert.ttf")format("truetype");
